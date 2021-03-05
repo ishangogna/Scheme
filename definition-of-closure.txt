@@ -1,0 +1,1 @@
+A closure is a continuing scope which holds on to local variables even after the code execution has moved out of that block. 
